@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service defination Fligt simple report'
+define service ZAY_FLIGHT {
+  expose ZAY_CONNECTION;
+  expose ZAJ_FLIGHT_R;
+}
